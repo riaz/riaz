@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I run marathons every year and love biking in the hills in San Francisco
 
-[![wakatime](https://wakatime.com/badge/user/9973e0d3-0b55-4420-9a6f-f3ab87a0ff7b.svg)](https://wakatime.com/badge/user/1afc1609-63e4-48b7-9aed-8a96d91ed06e.svg)
+[![wakatime](https://wakatime.com/badge/user/1afc1609-63e4-48b7-9aed-8a96d91ed06e.svg)](https://wakatime.com/@1afc1609-63e4-48b7-9aed-8a96d91ed06e)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=riaz" />
