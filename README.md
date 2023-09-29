@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on  - Appling LLMs for search, question answering and productivity.
 - 🌱 I’m currently learning  - Productioning LLMs End-to-End.
-- 👯 I’m looking to collaborate - on applying LLMs to everyday products to build something amazing.
+- 👯 I’m looking to collaborate - Applying LLMs to everyday products to build something amazing.
 - 🤔 I’m looking for help with  -  New role as an ML Engineer / Researcher
 - 💬 Ask me about  - AR/VR and Large Language Models
 - 📫 How to reach me - linkedin.com/riazmunshi
