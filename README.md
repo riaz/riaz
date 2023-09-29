@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
-**riaz/riaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
+**riaz/riaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Appling LLMs for search, question answering and productivity.
 - 🌱 I’m currently learning Productioning LLMs End-to-End.
@@ -11,11 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about AR/VR and Large Language Models
 - 📫 How to reach me: linkedin.com/riazmunshi
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I run marathons every year and love biking in the hills in San Francisco 
--->
+- ⚡ Fun fact: I run marathons every year and love biking in the hills in San Francisco
 
-[![wakatime](https://wakatime.com/badge/user/9973e0d3-0b55-4420-9a6f-f3ab87a0ff7b.svg)](https://wakatime.com/@9973e0d3-0b55-4420-9a6f-f3ab87a0ff7b)
-
+[![wakatime]([https://wakatime.com/badge/user/9973e0d3-0b55-4420-9a6f-f3ab87a0ff7b.svg](https://wakatime.com/badge/user/1afc1609-63e4-48b7-9aed-8a96d91ed06e.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=riaz" />
