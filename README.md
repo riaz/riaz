@@ -5,13 +5,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on  - Appling LLMs for search, question answering and productivity.
-- 🌱 I’m currently learning  - Productioning LLMs End-to-End.
-- 👯 I’m looking to collaborate - Applying LLMs to everyday products to build something amazing.
-- 🤔 I’m looking for help with  -  New role as an ML Engineer / Researcher
-- 💬 Ask me about  - AR/VR and Large Language Models
+- 🔭 I’m currently working on  appling LLMs for search, question answering and productivity.
 - 📫 How to reach me - linkedin.com/riazmunshi
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I run marathons every year and love biking in the hills in San Francisco
 
 [![wakatime](https://wakatime.com/badge/user/1afc1609-63e4-48b7-9aed-8a96d91ed06e.svg)](https://wakatime.com/@1afc1609-63e4-48b7-9aed-8a96d91ed06e)
